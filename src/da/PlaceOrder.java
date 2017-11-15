@@ -40,7 +40,7 @@ public class PlaceOrder {
         //"", restName, restRegNo, block,
         //town, postcode, state, ownerName, ownerIC, username, password
 
-        Restaurant restaurant = new Restaurant("WE00001", "Western Food", "0123456789", "aaa@hotmail.com",
+        Restaurant restaurant = new Restaurant("WE00001", "Western Food", "0123456789","aaa@hotmail.com",
                 "123456789", "32", "Bayan Lepas", "11900", "Pulau Pinang", "Yen",
                 "123456789", "123456", "123456");
         Restaurant restaurant1 = new Restaurant("WE00002", "Japanese Food", "0123456788","aaa@hotmail.com",
